@@ -1,4 +1,4 @@
-0x0A. Python - Inheritance
+
 Python
 OOP
 Inheritance
@@ -6,14 +6,7 @@ Inheritance
  Weight: 1
  Ongoing project - started Jul 4, 2022, must end by Jul 5, 2022 - you're done with 0% of tasks.
  Checker was released at Jul 4, 2022 1:00 PM
- An auto review will be launched at the deadline
-Resources
-Read or watch:
-
-Inheritance
-Multiple inheritance
-Inheritance in Python
-Learn to Program 10 : Inheritance Magic Methods
+ An auto review will be launched at t: Inheritance Magic Methods
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
