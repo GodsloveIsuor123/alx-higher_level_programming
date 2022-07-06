@@ -1,5 +1,6 @@
-
-n that creates an Object from a JSON file
+#!/usr/bin/python3
+"""
+Function that creates an Object from a JSON file
 """
 import json
 

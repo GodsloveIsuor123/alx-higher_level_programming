@@ -1,4 +1,6 @@
-cript that adds all arguments to a Py list
+#!/usr/bin/python3
+"""
+Script that adds all arguments to a Py list
 and then save them to a file
 """
 import sys
